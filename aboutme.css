@@ -1,27 +1,27 @@
 @font-face {
     font-family:'tanpearl';
-    src: url('fonts/tan-pearl.ttf')format('truetype');
+    src: url('tan-pearl.ttf/;charset=utf-8;base64,<base64 dump>');
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
 }
 @font-face {
     font-family:'Copyduck';
-    src: url('fonts/Copyduck.ttf')format('truetype');
+    src: url('Copyduck.ttf')format('truetype');
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
 }
 @font-face {
     font-family:'Honay';
-    src: url('fonts/Honya-Regular.ttf')format('truetype');
+    src: url('Honya-Regular.ttf')format('truetype');
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
 }
 @font-face {
     font-family:'Quick';
-    src: url('fonts/Quicksand_Light.otf')format('truetype');
+    src: url('Quicksand_Light.otf')format('truetype');
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
