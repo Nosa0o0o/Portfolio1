@@ -7,7 +7,7 @@
 }
 @font-face {
     font-family:'Copyduck';
-    src: url('Copyduck.ttf')format('truetype');
+    src: url('https://www.dafont.com/Copyduck.ttf' format('opentype'));
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
