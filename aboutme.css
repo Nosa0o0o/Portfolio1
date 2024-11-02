@@ -1,27 +1,27 @@
 @font-face {
     font-family:'tanpearl';
-    src: url('tan-pearl.ttf/;charset=utf-8;base64,<base64 dump>')format('truetype');
+    src: url('tan-pearl.ttf/truetype;charset=utf-8;base64,<base64 dump>');
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
 }
 @font-face {
     font-family:'Copyduck';
-    src: url('Copyduck.otf/;charset=utf-8;base64,<base64 dump>') format('opentype');
+    src: url('Copyduck-MAYWw.otf/;charset=utf-8;base64,<base64 dump>') ;
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
 }
 @font-face {
     font-family:'Honay';
-    src: url('Honya-Regular.ttf/;charset=utf-8;base64,<base64 dump>')format('truetype');
+    src: url('Honya-Regular.ttf/;charset=utf-8;base64,<base64 dump>');
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
 }
 @font-face {
     font-family:'Quick';
-    src: url('Quicksand_Light.otf/;charset=utf-8;base64,<base64 dump>')format('opentype');
+    src: url('Quicksand_Light.otf/;charset=utf-8;base64,<base64 dump>');
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
