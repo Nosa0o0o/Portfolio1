@@ -7,21 +7,21 @@
 }
 @font-face {
     font-family:'Copyduck';
-    src: url('https://www.dafont.com/Copyduck.ttf' format('opentype'));
+    src: url('Copyduck.ttf/;charset=utf-8;base64,<base64 dump>');
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
 }
 @font-face {
     font-family:'Honay';
-    src: url('Honya-Regular.ttf')format('truetype');
+    src: url('Honya-Regular.ttf/;charset=utf-8;base64,<base64 dump>');
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
 }
 @font-face {
     font-family:'Quick';
-    src: url('Quicksand_Light.otf')format('truetype');
+    src: url('Quicksand_Light.otf/;charset=utf-8;base64,<base64 dump>');
     font-weight: normal;
     font-style: normal;
     font-size: 200px;
